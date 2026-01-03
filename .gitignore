@@ -1,0 +1,12 @@
+# Environnement virtuel
+venv/
+
+# Clé API / variables d’environnement
+.env
+
+# Fichiers Python générés
+__pycache__/
+*.pyc
+
+# Fichiers de sortie générés par le script
+outputs/
