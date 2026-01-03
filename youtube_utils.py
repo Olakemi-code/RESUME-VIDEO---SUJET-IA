@@ -29,8 +29,9 @@ def obtenir_transcription_ytdlp(video_id: str, langues_preferees: list = None) -
         'writesubtitles': True,
         'writeautomaticsub': True,
         'subtitleslangs': langues_preferees,
-        'quiet': False,
-        'no_warnings': False,
+        'quiet': True,
+        'no_warnings': True,
+        'ignoreerrors': True,
     }
     
     try:
