@@ -1,3 +1,4 @@
+RESUME AUTOMATIQUE DE VIDEO IA
 
 C'est un outil générateur de rapport structuré à partir d'une vidéo Toutube portant sur un sujet d'IA. Il extrait et résume le contenu de la vidéo Youtube ciblée. Le résumé obtenu comporte :
 - les concepts clés;
